@@ -32,5 +32,6 @@ No final, exibe assim:
 
 ```bash
 javac -d bin src/br/com/simuladorpaginas/*.java
+```
 
 Projeto desenvolvido para o trabalho S.O **por** [**Lucas Rangel**](https://www.linkedin.com/in/lucasrangell/)
